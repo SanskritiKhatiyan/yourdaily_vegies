@@ -1,0 +1,42 @@
+
+.body{
+    background: transparent linear-gradient(180deg, #FFECD7 0%, #FFC9C9 100%) 0% 0% no-repeat padding-box;
+    border: 1px solid black;
+    top: 0px;
+    left: 0px;
+    width: 1440px;
+    height: 768px;
+}
+
+
+.logo{
+    position:absolute;
+    top: 24px;
+    left: 100px;
+    border: 2px solid green;
+    background: transparent;
+}
+
+.sabzi_wala{
+    position:absolute;
+    border: 2px solid black;
+    top: 115px;
+    left: 165px;
+    width: 725px;
+    height: 507px;
+    background: transparent ;
+    opacity: 1;
+}
+
+.form{
+    border: 2px solid green;
+    position: absolute;
+    top: 175px;
+    left: 985px;
+    width: 345px;
+    height: 418px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 12px 9px 27px #7777774D;
+    border-radius: 10px;
+    opacity: 1;
+}
